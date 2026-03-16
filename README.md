@@ -1,2 +1,3 @@
 # testing
 AI-powered Restaurant Assistant built with n8n + Telegram Bot. Handles food orders, FAQs, and stock checks via Google Sheets. Uses Google Gemini for smart replies and memory for chat context. A friendly food-ordering chatbot for SWASTIK Restaurant.
+...
